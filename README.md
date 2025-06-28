@@ -1,0 +1,2 @@
+# AI_BOOSTED_WASM2JS
+
