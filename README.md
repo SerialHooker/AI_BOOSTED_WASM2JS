@@ -1,2 +1,1 @@
-# AI_BOOSTED_WASM2JS
-
+vcpkg required, gemini api key optional
