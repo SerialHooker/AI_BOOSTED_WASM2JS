@@ -1,1 +1,1 @@
-vcpkg required, gemini api key optional
+gemini api key optional
